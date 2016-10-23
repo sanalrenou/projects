@@ -1,0 +1,33 @@
+
+ span {
+ font-weight:bold;
+ }
+ .facts {
+ font-style:italic;
+ }
+ ul {
+ list-style-type:none;
+ }
+ .information {
+ border-style:ridge;
+ padding:10px 10px;
+ }
+ .image {
+ border-style:hidden;
+ width:300px;
+ padding-left:none;
+ margin:0 auto;
+ 
+ }
+ .all {
+ border-style:outset;
+ padding:20px 20px;/* add your CSS here */
+ width:320px;
+ }
+ img {
+ width:100%;
+ } 
+ 
+ 
+
+
